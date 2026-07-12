@@ -46,3 +46,6 @@ sudo spoofy -t 127.0.0.1 -s 1.1.1.1 -p 53 -m "hello local audit" -c 1
 ```sh
 sudo spoofy -t ::1 -s 2001:db8::123 -p 53 -m "0x12340100000100000000000006676f6f676c6503636f6d0000010001" -c 1
 ```
+
+# License
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
